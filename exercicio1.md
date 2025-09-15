@@ -1,5 +1,6 @@
-# exercicio-ling-form-autom-finitos
+# linguagens_formais_automatos_finitos
 ---
+
 Questões sobre o Processo de Compilação em Java
 
 1. Qual é a principal diferença entre o processo de compilação em Java e o de linguagens C++?
